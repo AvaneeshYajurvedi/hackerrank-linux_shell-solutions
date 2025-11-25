@@ -35,8 +35,7 @@ Arithmetic_Operations.sh
 
 - Build a strong foundation in Linux and Bash  
 - Improve problem-solving efficiency using shell tools  
-- Maintain consistency by solving challenges regularly  
-- Prepare for future learning paths such as DevOps, system automation, and scripting-heavy environments  
+- Maintain consistency by solving challenges regularly   
 
 ---
 
